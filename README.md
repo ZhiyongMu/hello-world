@@ -1,4 +1,6 @@
 # hello-world
-my first git repository
+my first git 
 hi human
-this is test 测试一下，看看会发生什么
+this is test 测试一下，怎么变化的？
+再次增加
+增加2次
